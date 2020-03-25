@@ -11063,7 +11063,7 @@ MonoBehaviour:
   maxHealth: 100
   healthBar: {fileID: 592193801}
   rb: {fileID: 0}
-  speed: 6
+  speed: 4.5
   jumpForce: 12
   slideSpeed: 1
   wallJumpLerp: 5
