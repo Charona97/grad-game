@@ -11064,10 +11064,10 @@ MonoBehaviour:
   healthBar: {fileID: 592193801}
   rb: {fileID: 0}
   speed: 4.5
-  jumpForce: 12
+  jumpForce: 10
   slideSpeed: 1
   wallJumpLerp: 5
-  dashSpeed: 40
+  dashSpeed: 28
   canMove: 1
   wallGrab: 0
   wallJumped: 0
@@ -21693,7 +21693,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 456329825}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.190001, y: -1.8300004, z: -10}
+  m_LocalPosition: {x: -10.19, y: -1.8300004, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1258907741}
@@ -22116,7 +22116,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.190001, y: -1.8300004, z: -10}
+  m_LocalPosition: {x: -10.19, y: -1.8300004, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
