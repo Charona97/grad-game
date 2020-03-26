@@ -20,7 +20,7 @@ public class Enemy : MonoBehaviour
     {
         if (col.CompareTag("Player"))
         {
-            player.Damage(100);
+            player.Damage(20);
         }
     }
 

@@ -11,6 +11,7 @@ public class PlayerAttack : MonoBehaviour
     public LayerMask whatIsEnemies;
     public float attackRange;
     public int damage;
+    public Animator animator;
 
     private void Update()
     {
@@ -18,6 +19,7 @@ public class PlayerAttack : MonoBehaviour
         {
             if (Input.GetKey(KeyCode.Mouse1))
             {
+                animator.SetTrigger("attack");
                 Collider2D[] enemiesToDamage = Physics2D.OverlapCircleAll(attackPos.position, attackRange, whatIsEnemies);
                 for (int i = 0; i < enemiesToDamage.Length; i++)
                 {
