@@ -11145,7 +11145,7 @@ MonoBehaviour:
   whatIsEnemies:
     serializedVersion: 2
     m_Bits: 2048
-  attackRange: 1.22
+  attackRange: 0.44
   damage: 1
   animator: {fileID: 205110262}
 --- !u!212 &213030902
@@ -39222,7 +39222,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1847523411}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -6.4, y: -2.2, z: -2.2725668}
+  m_LocalPosition: {x: -6.4, y: -1.7, z: -2.2725668}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 890793508}
