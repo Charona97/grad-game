@@ -11005,7 +11005,7 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: -0.33}
-  m_Size: {x: 0.86, y: 0.82}
+  m_Size: {x: 0.83, y: 0.82}
   m_Direction: 0
 --- !u!50 &213030895
 Rigidbody2D:
@@ -11065,7 +11065,7 @@ MonoBehaviour:
   rb: {fileID: 0}
   speed: 4.5
   jumpForce: 10
-  slideSpeed: 1
+  slideSpeed: 0.2
   wallJumpLerp: 5
   dashSpeed: 28
   canMove: 1
@@ -11112,10 +11112,10 @@ MonoBehaviour:
   onRightWall: 0
   onLeftWall: 0
   wallSide: 0
-  collisionRadius: 0.1
+  collisionRadius: 0.09
   bottomOffset: {x: 0, y: -0.79}
-  rightOffset: {x: 0.5, y: -0.33}
-  leftOffset: {x: -0.5, y: -0.33}
+  rightOffset: {x: 0.47, y: -0.48}
+  leftOffset: {x: -0.39, y: -0.48}
 --- !u!114 &213030900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21693,7 +21693,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 456329825}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.19, y: -1.8300004, z: -10}
+  m_LocalPosition: {x: -10.190001, y: -1.8300004, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1258907741}
@@ -22116,7 +22116,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 519420028}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.19, y: -1.8300004, z: -10}
+  m_LocalPosition: {x: -10.190001, y: -1.8300004, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -37159,7 +37159,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 786101202}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: -0.35, y: -0.29, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 213030896}
