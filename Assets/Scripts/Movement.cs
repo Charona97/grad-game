@@ -342,6 +342,13 @@ public class Movement : MonoBehaviour
         healthBar.SetHealth(curHealth);
     }
 
+    public void Heal (int healthBoost)
+    {
+        curHealth += healthBoost;
+        healthBar.SetHealth(curHealth);
+
+    }
+
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (other.gameObject.CompareTag("Stars"))
