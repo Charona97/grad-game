@@ -6,7 +6,7 @@ public class platformManager : MonoBehaviour
 {
     public static platformManager Instance = null;
 
-   [SerializeField]
+    [SerializeField]
     GameObject platformPrefab;
 
     private void Awake()

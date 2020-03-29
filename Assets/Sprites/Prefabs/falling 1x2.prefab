@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -9026058941745988754}
   - component: {fileID: -3223481459693205037}
   m_Layer: 8
-  m_Name: yeet
+  m_Name: falling 1x2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
