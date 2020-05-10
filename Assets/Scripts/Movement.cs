@@ -36,6 +36,8 @@ public class Movement : MonoBehaviour
     public bool wallSlide;
     public bool isDashing;
 
+
+
     [Space]
 
     private bool groundTouch;
@@ -49,6 +51,8 @@ public class Movement : MonoBehaviour
     public ParticleSystem jumpParticle;
     public ParticleSystem wallJumpParticle;
     public ParticleSystem slideParticle;
+
+
 
     // Start is called before the first frame update
     void Start()

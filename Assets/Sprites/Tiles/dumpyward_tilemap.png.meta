@@ -1,0 +1,2287 @@
+fileFormatVersion: 2
+guid: 2820d0260a8645b4ba16715643d37a97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3971037014278130503
+    second: dumpyward_tilemap_0
+  - first:
+      213: -5561780306846327567
+    second: dumpyward_tilemap_1
+  - first:
+      213: -5032219038698688174
+    second: dumpyward_tilemap_2
+  - first:
+      213: 393552299869400100
+    second: dumpyward_tilemap_3
+  - first:
+      213: 5780402066018139126
+    second: dumpyward_tilemap_4
+  - first:
+      213: -439079012261891848
+    second: dumpyward_tilemap_5
+  - first:
+      213: -1719870718975968818
+    second: dumpyward_tilemap_6
+  - first:
+      213: 2745582491017542061
+    second: dumpyward_tilemap_7
+  - first:
+      213: 6946089591092044255
+    second: dumpyward_tilemap_8
+  - first:
+      213: -4145653715322337260
+    second: dumpyward_tilemap_9
+  - first:
+      213: 1440978592261679609
+    second: dumpyward_tilemap_10
+  - first:
+      213: -3251440674556677161
+    second: dumpyward_tilemap_11
+  - first:
+      213: -6138910169033206989
+    second: dumpyward_tilemap_12
+  - first:
+      213: -2265315957549693835
+    second: dumpyward_tilemap_13
+  - first:
+      213: -7814897406657299677
+    second: dumpyward_tilemap_14
+  - first:
+      213: 3656678814406903950
+    second: dumpyward_tilemap_15
+  - first:
+      213: -3043500425270348257
+    second: dumpyward_tilemap_16
+  - first:
+      213: -5304824579478632370
+    second: dumpyward_tilemap_17
+  - first:
+      213: -2697122693826868216
+    second: dumpyward_tilemap_18
+  - first:
+      213: -3079402229031446371
+    second: dumpyward_tilemap_19
+  - first:
+      213: 680860087619805447
+    second: dumpyward_tilemap_20
+  - first:
+      213: 655483693740799458
+    second: dumpyward_tilemap_21
+  - first:
+      213: 3632032739929687449
+    second: dumpyward_tilemap_22
+  - first:
+      213: -4846159797855780391
+    second: dumpyward_tilemap_23
+  - first:
+      213: 7070791272522742042
+    second: dumpyward_tilemap_24
+  - first:
+      213: 6476279975726925654
+    second: dumpyward_tilemap_25
+  - first:
+      213: 5317378654412103020
+    second: dumpyward_tilemap_26
+  - first:
+      213: -1788229477523572623
+    second: dumpyward_tilemap_27
+  - first:
+      213: -250570507945812401
+    second: dumpyward_tilemap_28
+  - first:
+      213: -6092019236405578611
+    second: dumpyward_tilemap_29
+  - first:
+      213: -2038467087602004091
+    second: dumpyward_tilemap_30
+  - first:
+      213: -1044515472218361289
+    second: dumpyward_tilemap_31
+  - first:
+      213: 1017642370205261632
+    second: dumpyward_tilemap_32
+  - first:
+      213: 2999857789885653920
+    second: dumpyward_tilemap_33
+  - first:
+      213: -7870788070239285321
+    second: dumpyward_tilemap_34
+  - first:
+      213: -3059763130938043294
+    second: dumpyward_tilemap_35
+  - first:
+      213: 9047441312460568042
+    second: dumpyward_tilemap_36
+  - first:
+      213: -9080099401815976487
+    second: dumpyward_tilemap_37
+  - first:
+      213: -3763677232939484764
+    second: dumpyward_tilemap_38
+  - first:
+      213: -1239748165305749066
+    second: dumpyward_tilemap_39
+  - first:
+      213: 106062836724368597
+    second: dumpyward_tilemap_40
+  - first:
+      213: -9221475242829310713
+    second: dumpyward_tilemap_41
+  - first:
+      213: -5741509456774876280
+    second: dumpyward_tilemap_42
+  - first:
+      213: 8865832606724540314
+    second: dumpyward_tilemap_43
+  - first:
+      213: -3995165330991524330
+    second: dumpyward_tilemap_44
+  - first:
+      213: 4382147019993225428
+    second: dumpyward_tilemap_45
+  - first:
+      213: 673352783333235579
+    second: dumpyward_tilemap_46
+  - first:
+      213: 6823608399442288680
+    second: dumpyward_tilemap_47
+  - first:
+      213: 2785353772766016759
+    second: dumpyward_tilemap_48
+  - first:
+      213: 6345648613222839372
+    second: dumpyward_tilemap_49
+  - first:
+      213: 9041818419196650760
+    second: dumpyward_tilemap_50
+  - first:
+      213: 6721588115241043364
+    second: dumpyward_tilemap_51
+  - first:
+      213: 4115754139846224640
+    second: dumpyward_tilemap_52
+  - first:
+      213: 5010625909916182959
+    second: dumpyward_tilemap_53
+  - first:
+      213: -1151640461439494478
+    second: dumpyward_tilemap_54
+  - first:
+      213: 7852186926739147852
+    second: dumpyward_tilemap_55
+  - first:
+      213: -7956452998736279507
+    second: dumpyward_tilemap_56
+  - first:
+      213: 9175674832638362353
+    second: dumpyward_tilemap_57
+  - first:
+      213: 4471037753860091455
+    second: dumpyward_tilemap_58
+  - first:
+      213: -3519037453216035312
+    second: dumpyward_tilemap_59
+  - first:
+      213: -8610251058084208223
+    second: dumpyward_tilemap_60
+  - first:
+      213: 1511884467722277249
+    second: dumpyward_tilemap_61
+  - first:
+      213: -580098238226278514
+    second: dumpyward_tilemap_62
+  - first:
+      213: -1478991045200968345
+    second: dumpyward_tilemap_63
+  - first:
+      213: 8644629768084816943
+    second: dumpyward_tilemap_64
+  - first:
+      213: -5652783079520601713
+    second: dumpyward_tilemap_65
+  - first:
+      213: -2979660849198133509
+    second: dumpyward_tilemap_66
+  - first:
+      213: 4101668393547537133
+    second: dumpyward_tilemap_67
+  - first:
+      213: -1064834497860137951
+    second: dumpyward_tilemap_68
+  - first:
+      213: -3106315194521499360
+    second: dumpyward_tilemap_69
+  - first:
+      213: 222064779111141000
+    second: dumpyward_tilemap_70
+  - first:
+      213: -2663588395242352614
+    second: dumpyward_tilemap_71
+  - first:
+      213: 7130710101932669363
+    second: dumpyward_tilemap_72
+  - first:
+      213: -4196280943839374651
+    second: dumpyward_tilemap_73
+  - first:
+      213: 6278336770691188705
+    second: dumpyward_tilemap_74
+  - first:
+      213: -7069895488392497531
+    second: dumpyward_tilemap_75
+  - first:
+      213: -2743713277264653564
+    second: dumpyward_tilemap_76
+  - first:
+      213: -7770295920960547429
+    second: dumpyward_tilemap_77
+  - first:
+      213: -6336345823332538587
+    second: dumpyward_tilemap_78
+  - first:
+      213: -3796097717456899772
+    second: dumpyward_tilemap_79
+  - first:
+      213: -7182624075169029544
+    second: dumpyward_tilemap_80
+  - first:
+      213: -4934016561428982017
+    second: dumpyward_tilemap_81
+  - first:
+      213: -3363669658573542589
+    second: dumpyward_tilemap_82
+  - first:
+      213: 1745613729082779091
+    second: dumpyward_tilemap_83
+  - first:
+      213: 7644727965221634837
+    second: dumpyward_tilemap_84
+  - first:
+      213: 2490002659469465006
+    second: dumpyward_tilemap_85
+  - first:
+      213: 6477028541808208542
+    second: dumpyward_tilemap_86
+  - first:
+      213: -4467955381767578886
+    second: dumpyward_tilemap_87
+  - first:
+      213: -6825868587693361306
+    second: dumpyward_tilemap_88
+  - first:
+      213: -4765403767505416982
+    second: dumpyward_tilemap_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dumpyward_tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdab3d8f23c53d42be43b28a33d9e01
+      internalID: -3971037014278130503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b930026ffb9c94da8eec5ea2402539
+      internalID: -5561780306846327567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7814ba82be5e6e44af92f8680a3a384
+      internalID: -5032219038698688174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5797703610fe4904ca7f2c71563f633b
+      internalID: 393552299869400100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f437b1674afae174da198c3be7e2d99f
+      internalID: 5780402066018139126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d425cfa5e6a7ab469fe6d20ebaf55ad
+      internalID: -439079012261891848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113d3f601dc809d43a41a26c1d758a02
+      internalID: -1719870718975968818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8728ade64968c46bd2b2616865471e
+      internalID: 2745582491017542061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e72dc0cbc4089488a1fb8ce3e31ff8
+      internalID: 6946089591092044255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b1629d7594fb43900795b365632ca
+      internalID: -4145653715322337260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fd04056e6963c42aadb2ee3732a073
+      internalID: 1440978592261679609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae67e4ddd7d004040ad92f2625c6b24e
+      internalID: -3251440674556677161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27757b75e542144d966d4c099e1ab02
+      internalID: -6138910169033206989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c339b09a62b436d4bae4702333a63426
+      internalID: -2265315957549693835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce166f1d569b55468d56302e182586d
+      internalID: -7814897406657299677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833732dfc7ca81a4eb522e122430ea29
+      internalID: 3656678814406903950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cb50967eb811d42aaa6b5da335a76a
+      internalID: -3043500425270348257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6baae59a790409643a9fa4424bcfd3da
+      internalID: -5304824579478632370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787ec47645221e14aaff1b55b630969a
+      internalID: -2697122693826868216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92de2d35eea6f744a709f661cc4718b
+      internalID: -3079402229031446371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55446cc1884bf0c4595808cab964dd72
+      internalID: 680860087619805447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598d5c90060c61d4c8723dc4d4973c5b
+      internalID: 655483693740799458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dabf76003e549468c4500a5c604cbc
+      internalID: 3632032739929687449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 61
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1faa4b2e453854caee8b11837aa591
+      internalID: -4846159797855780391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad24ac5a44de6f0488ead63f51bb7f8d
+      internalID: 7070791272522742042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d954d4e6c1fd83a4abc8412d9b62a685
+      internalID: 6476279975726925654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573c62a283c57d4290274f7cdd6591b
+      internalID: 5317378654412103020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d871d6b0bc9db6a429c6b43e0071e6b1
+      internalID: -1788229477523572623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613f3f9c8a83c184db0bc8ceff4eb956
+      internalID: -250570507945812401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_29
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070781104cab24b469b01010e706b986
+      internalID: -6092019236405578611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970e23c92734d8c43b02f9e3fc9a2edd
+      internalID: -2038467087602004091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cedfd1b1aba3b49baec9adfc01a50f
+      internalID: -1044515472218361289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_32
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04102a6d449871c47bfca2e17f85561e
+      internalID: 1017642370205261632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_33
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee39abd9cc3c7146a477655a31ff295
+      internalID: 2999857789885653920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_34
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b24ea9b05ff1df4ea777d6ba358d73c
+      internalID: -7870788070239285321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_35
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220298b0fdba3e8429617ce72a304bbe
+      internalID: -3059763130938043294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f600f5f659d9b46b5970bbf671fa8b
+      internalID: 9047441312460568042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_37
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1137292cc6b7ec542ad46f18039887cf
+      internalID: -9080099401815976487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061fb64bcfcb1a4e8c2a97b644e83ad
+      internalID: -3763677232939484764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9a22f93a4e92841819149526d11b76
+      internalID: -1239748165305749066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446231fff80676f4fbb392e64864b26d
+      internalID: 106062836724368597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_41
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85e6fba2dfeea743b9d4e4039fa3a16
+      internalID: -9221475242829310713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_42
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5c42a0aefcef5468a6cf1d8277612e
+      internalID: -5741509456774876280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b46f34078f2484580c695852a2b975
+      internalID: 8865832606724540314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413dbf58c727f724f840898e3d2d5671
+      internalID: -3995165330991524330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_45
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad122912df6b334b89605be6046e43e
+      internalID: 4382147019993225428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ff37af953acc144aa8a87d38151952
+      internalID: 673352783333235579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_47
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9995ae6dcb8ddc0438ece83762520a9a
+      internalID: 6823608399442288680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_48
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f5efd6854b74749bab4e12c961a56d
+      internalID: 2785353772766016759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_49
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bd14656ba4e5841a11a3e2edcf7875
+      internalID: 6345648613222839372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86325f0faaba0374e8a5f12d7c96c323
+      internalID: 9041818419196650760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_51
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85ba15a7f0b58843b3670e6264c861c
+      internalID: 6721588115241043364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_52
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe9031b075cb534c8c7fcf563b175e8
+      internalID: 4115754139846224640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_53
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48092270cf899418a87453493b5588
+      internalID: 5010625909916182959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226ec804ed20f2d44972ef73b4d8b182
+      internalID: -1151640461439494478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_55
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55bf9e5dcbabe2045871c1f143ee10a2
+      internalID: 7852186926739147852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03f5bc39ad8cff49b9f22918180267a
+      internalID: -7956452998736279507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_57
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f1a91745752474893b25110942f11c
+      internalID: 9175674832638362353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_58
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2ec9d8104e15740930e2b3e2dc8a12
+      internalID: 4471037753860091455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea96401f13c5b444fa4f47bd607aea96
+      internalID: -3519037453216035312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_60
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b5e91197196e54fbd9c5a484f2caac
+      internalID: -8610251058084208223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_61
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b046e4de830dd44e99574863d315aef
+      internalID: 1511884467722277249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54177958e896f8447af767c4b2b90d57
+      internalID: -580098238226278514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f423b9c7bb936354a9d33e47ec3af0c6
+      internalID: -1478991045200968345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7290a225937f74a8bc0904e977501c
+      internalID: 8644629768084816943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7f5bce4520c394ab55fae08ba8a6f5
+      internalID: -5652783079520601713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b581614c84f6b64438f192f702ebc8d0
+      internalID: -2979660849198133509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8c9c653c274ab46a7cdab6a7a63967
+      internalID: 4101668393547537133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_68
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e705db3a71fdf4cb7f9995416f7bd3
+      internalID: -1064834497860137951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_69
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49e91a24047ac745b981dea4a272556
+      internalID: -3106315194521499360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_70
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a0e7dcf4d124545be697f2a04cbc93
+      internalID: 222064779111141000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_71
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d138d82e4fe4fa242a26090719b521f3
+      internalID: -2663588395242352614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d4175472d0dba48b1c6a6a91432027
+      internalID: 7130710101932669363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb61989ef01e64281552635efd4d2e
+      internalID: -4196280943839374651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_74
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6512af84600c1ca4084b367508768c87
+      internalID: 6278336770691188705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c871f2dfe74c48a344e98ec4656d5
+      internalID: -7069895488392497531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_76
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df577abb5601874fa167fd3a444e28a
+      internalID: -2743713277264653564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_77
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ebbe3756ac7b42bb75ae017f9feb4
+      internalID: -7770295920960547429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_78
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c781429b41ca849905f740706770e6
+      internalID: -6336345823332538587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a8b1cc313ca0147aa190f02f833123
+      internalID: -3796097717456899772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a2b7fde7e49b644a0a91c39e013692
+      internalID: -7182624075169029544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453f4a6681e544409504fd2eb9d3169
+      internalID: -4934016561428982017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe75e434a2b3b44fa3179b7ee042d81
+      internalID: -3363669658573542589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88205dab0acc2464ebed1fbb6248cfb4
+      internalID: 1745613729082779091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b63f88d0f995e47952f79d590e8d92
+      internalID: 7644727965221634837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648f62f0cba69854cabf7fb48ebe48c3
+      internalID: 2490002659469465006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0719e6db567948a71fdd41bd95a5f
+      internalID: 6477028541808208542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cdd2f6442b114479637e82a43ef463
+      internalID: -4467955381767578886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_88
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1123dd6cd78aca646b2b3267565baabc
+      internalID: -6825868587693361306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dumpyward_tilemap_89
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9271059f013e0dd4f9d32b09089f3da8
+      internalID: -4765403767505416982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
