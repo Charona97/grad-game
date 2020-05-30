@@ -15,12 +15,6 @@ public class DialogHolder : MonoBehaviour
         dMan = FindObjectOfType<DialogueManager>();
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
     private void OnTriggerStay2D (Collider2D other)
     {
         if(other.gameObject.name == "Player")
@@ -31,9 +25,7 @@ public class DialogHolder : MonoBehaviour
 
                 if (!dMan.dialogActive)
                 {
-                    dMan.dialogLines = dialogueLines;
-                    dMan.currentLine = 0;
-                    dMan.ShowDialogue();
+                    dMan.ShowDialogue(dialogueLines);
                 }
             }
         }

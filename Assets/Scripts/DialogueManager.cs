@@ -10,8 +10,10 @@ public class DialogueManager : MonoBehaviour
 
     public bool dialogActive;
 
-    public string[] dialogLines;
-    public int currentLine;
+    private string[] dialogLines;
+    private int currentLine;
+
+    public Dialog dialogScript;
 
     // Start is called before the first frame update
     void Start()
@@ -22,23 +24,25 @@ public class DialogueManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (!dialogActive) { return; }// Make sure this script does not try to show dialog while it shouldn't
+
         if(dialogActive && Input.GetKeyDown(KeyCode.F))
         {
             //dBox.SetActive(false);
             //dialogActive = false
-
             currentLine++;
+            if (currentLine >= dialogLines.Length)
+            {
+                dBox.SetActive(false);
+                dialogActive = false;
+            }
+            else
+            {
+                dialogScript.TypeSentence(dialogLines[currentLine]);
+            }
         }
 
-        if(currentLine >= dialogLines.Length)
-        {
-            dBox.SetActive(false);
-            dialogActive = false;
-
-            currentLine = 0;
-        }
-
-        dText.text = dialogLines[currentLine];
+         
     }
 
     public void ShowBox(string dialogue)
@@ -48,9 +52,18 @@ public class DialogueManager : MonoBehaviour
         dText.text = dialogue; 
     }
 
-    public void ShowDialogue()
+    public void ShowDialogue(string[] dialog)
     {
-        dialogActive = true;
+        dialogLines = dialog;
+        currentLine = 0;
         dBox.SetActive(true);
+        dialogScript.TypeSentence(dialogLines[currentLine]);// dit mag al wel meteen
+        StartCoroutine(ActivateDialogAfterOneFrame());
+    }
+
+    private IEnumerator ActivateDialogAfterOneFrame()
+    {
+        yield return null;
+        dialogActive = true;
     }
 }

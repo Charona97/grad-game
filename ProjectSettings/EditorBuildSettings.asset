@@ -9,6 +9,24 @@ EditorBuildSettings:
     path: Assets/Scenes/StartMenu.unity
     guid: 2a34d5b6d728b8d4c803afb9702cced1
   - enabled: 1
-    path: Assets/Scenes/Game.unity
+    path: Assets/Scenes/Dumpyard.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Intro1.unity
+    guid: 2402925d6a0376049b19f357c1302c6e
+  - enabled: 1
+    path: Assets/Scenes/Intro2.unity
+    guid: fd16717d44b179e4facbfa2334c05dcd
+  - enabled: 1
+    path: Assets/Scenes/Intro3.unity
+    guid: 76c92c35913a6814a81bbea5d4047a9b
+  - enabled: 1
+    path: Assets/Scenes/Intro4.unity
+    guid: 85f20bd642f47494c93c8b68e216aabc
+  - enabled: 1
+    path: Assets/Scenes/Intro5.unity
+    guid: b3140f944701f8d459805925c8ebf147
+  - enabled: 1
+    path: Assets/Scenes/Intro6.unity
+    guid: ed500c7f4a74d0449964296c6e1fa143
   m_configObjects: {}
