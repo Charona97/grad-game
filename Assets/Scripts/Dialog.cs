@@ -5,7 +5,7 @@ using UnityEngine.UI;
 public class Dialog : MonoBehaviour
 {
     public Text textDisplay;
-    public float typingSpeed = 0.01f;
+    public float typingSpeed = 8f;
 
     public bool continueDialogue = true;
     private float timer;

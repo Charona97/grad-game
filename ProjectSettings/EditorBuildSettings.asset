@@ -29,4 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Intro6.unity
     guid: ed500c7f4a74d0449964296c6e1fa143
+  - enabled: 1
+    path: Assets/Scenes/EndingHospital.unity
+    guid: 31162eca3b289764a877219906e0a29a
+  - enabled: 1
+    path: Assets/Scenes/Dumpyard 2.unity
+    guid: d084ff8600df89045a8e8aad9f769c27
+  - enabled: 1
+    path: Assets/Scenes/ToyVillage1.unity
+    guid: d5467b196f84dfc41a51c3291673ef6d
   m_configObjects: {}
