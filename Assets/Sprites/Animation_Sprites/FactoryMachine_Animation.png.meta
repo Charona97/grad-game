@@ -1,0 +1,1327 @@
+fileFormatVersion: 2
+guid: b3bc9cf5f141a564e91be6076563a993
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7788881123684857989
+    second: FactoryMachine_Animation_0
+  - first:
+      213: 6486256637137437804
+    second: FactoryMachine_Animation_1
+  - first:
+      213: -1425654924363994501
+    second: FactoryMachine_Animation_2
+  - first:
+      213: 5824259385458692426
+    second: FactoryMachine_Animation_3
+  - first:
+      213: -4733130604861958449
+    second: FactoryMachine_Animation_4
+  - first:
+      213: -6021663272073739341
+    second: FactoryMachine_Animation_5
+  - first:
+      213: 816334089370109335
+    second: FactoryMachine_Animation_6
+  - first:
+      213: 4230997510708360220
+    second: FactoryMachine_Animation_7
+  - first:
+      213: 8677903320366981212
+    second: FactoryMachine_Animation_8
+  - first:
+      213: -4480076792924424161
+    second: FactoryMachine_Animation_9
+  - first:
+      213: -8760225025983144087
+    second: FactoryMachine_Animation_10
+  - first:
+      213: -6815826742042433095
+    second: FactoryMachine_Animation_11
+  - first:
+      213: -816203496914635666
+    second: FactoryMachine_Animation_12
+  - first:
+      213: 9211917073665602015
+    second: FactoryMachine_Animation_13
+  - first:
+      213: 2762006976032845139
+    second: FactoryMachine_Animation_14
+  - first:
+      213: 1818605031825022545
+    second: FactoryMachine_Animation_15
+  - first:
+      213: -7527547481770294058
+    second: FactoryMachine_Animation_16
+  - first:
+      213: 6712112525423761776
+    second: FactoryMachine_Animation_17
+  - first:
+      213: 5590265692167995708
+    second: FactoryMachine_Animation_18
+  - first:
+      213: -2618873306658131524
+    second: FactoryMachine_Animation_19
+  - first:
+      213: -6168991954342607813
+    second: FactoryMachine_Animation_20
+  - first:
+      213: -1588228146970022466
+    second: FactoryMachine_Animation_21
+  - first:
+      213: -679424891480344038
+    second: FactoryMachine_Animation_22
+  - first:
+      213: 8009871473127876686
+    second: FactoryMachine_Animation_23
+  - first:
+      213: 3104368558207108912
+    second: FactoryMachine_Animation_24
+  - first:
+      213: -3506620160925264485
+    second: FactoryMachine_Animation_25
+  - first:
+      213: -8183316790656529351
+    second: FactoryMachine_Animation_26
+  - first:
+      213: 8810360082177442459
+    second: FactoryMachine_Animation_27
+  - first:
+      213: 7204756465019144886
+    second: FactoryMachine_Animation_28
+  - first:
+      213: -5947360401379356532
+    second: FactoryMachine_Animation_29
+  - first:
+      213: -6401259525151693659
+    second: FactoryMachine_Animation_30
+  - first:
+      213: -4291597799656963028
+    second: FactoryMachine_Animation_31
+  - first:
+      213: 2902460492323178305
+    second: FactoryMachine_Animation_32
+  - first:
+      213: -8835871331479563442
+    second: FactoryMachine_Animation_33
+  - first:
+      213: 3040040023683455063
+    second: FactoryMachine_Animation_34
+  - first:
+      213: 3169468843723593243
+    second: FactoryMachine_Animation_35
+  - first:
+      213: 5603451526867530282
+    second: FactoryMachine_Animation_36
+  - first:
+      213: -9214357380498043584
+    second: FactoryMachine_Animation_37
+  - first:
+      213: 4641082641297332265
+    second: FactoryMachine_Animation_38
+  - first:
+      213: 8302374189505637819
+    second: FactoryMachine_Animation_39
+  - first:
+      213: 2687651617900017243
+    second: FactoryMachine_Animation_40
+  - first:
+      213: -3045779632656285659
+    second: FactoryMachine_Animation_41
+  - first:
+      213: 1054990108927766043
+    second: FactoryMachine_Animation_42
+  - first:
+      213: 16618740374675376
+    second: FactoryMachine_Animation_43
+  - first:
+      213: 1604721832717956647
+    second: FactoryMachine_Animation_44
+  - first:
+      213: 3460313499763192937
+    second: FactoryMachine_Animation_45
+  - first:
+      213: -5701986914418317478
+    second: FactoryMachine_Animation_46
+  - first:
+      213: -1477531902462684636
+    second: FactoryMachine_Animation_47
+  - first:
+      213: -642249432557108555
+    second: FactoryMachine_Animation_48
+  - first:
+      213: 3249794289660518524
+    second: FactoryMachine_Animation_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee2252aa8fab6646b51f2ba82d9f8ed
+      internalID: 7788881123684857989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96ddb4215541754bbb152d35402ed9f
+      internalID: 6486256637137437804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b840c2ce14488a6458b263efd6e004f5
+      internalID: -1425654924363994501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f34b998b30c5543950ddd2217e4b1e
+      internalID: 5824259385458692426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72bcc1782a65fa48aa545c72807d091
+      internalID: -4733130604861958449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9987ba3f2643f45a0e784e1cb183fe
+      internalID: -6021663272073739341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f80d959b7154894c9401094325fbb30
+      internalID: 816334089370109335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d3ec974d22147458f6601b46a05e52
+      internalID: 4230997510708360220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2938ab35d019904f90ac1d2fd481116
+      internalID: 8677903320366981212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8a5b08cf856f54693ddbfbfad5feb9
+      internalID: -4480076792924424161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddfc03566fd9546b332d39fbaa34e3
+      internalID: -8760225025983144087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c28dd3426ca64b40b93ed2d5c673918
+      internalID: -6815826742042433095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 408
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410660818f9bed4cb42dcdc05169e4c
+      internalID: -816203496914635666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8b8cf01b4709488875159c03a9030
+      internalID: 9211917073665602015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fdc81ca18b6ca44aecfa70dc8ef0c5
+      internalID: 2762006976032845139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58d37ccf7186b04ab27dfadf38f2371
+      internalID: 1818605031825022545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8301c8e87da342449525d6d3f59a2eb
+      internalID: -7527547481770294058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_17
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab171f4f6e9c5a48a438df95f5b0411
+      internalID: 6712112525423761776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_18
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cf56efb16ca3147a1ee042258150b4
+      internalID: 5590265692167995708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_19
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2bcc0aec545864cb42f01c5b8ba7e9
+      internalID: -2618873306658131524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_20
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dae848ac536945bf11e5c6e561954
+      internalID: -6168991954342607813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_21
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85e95c1615537249a0d06f3b5f49f83
+      internalID: -1588228146970022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_22
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ad92fda5d45154fa24c2dea3de4541
+      internalID: -679424891480344038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_23
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96e1178b3e57a468ebca3e83ea1615
+      internalID: 8009871473127876686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_24
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceaf0927e7a43174092f5d21298f254e
+      internalID: 3104368558207108912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_25
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 272
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ede5381b4bb448ac0ecf3c5938733
+      internalID: -3506620160925264485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad77d0aee3dbee41915fa4f86c890b1
+      internalID: -8183316790656529351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_27
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d2ee813447a6b43905f049bdb1ff8a
+      internalID: 8810360082177442459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_28
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c88cd0e3951a7940a83bdd699a5d8de
+      internalID: 7204756465019144886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_29
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b56699e4b6c1b4d9f4f66156b9f162
+      internalID: -5947360401379356532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_30
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84465c5743dc3c47b8985658e178d58
+      internalID: -6401259525151693659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_31
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b016d45eccc34fa1cb1bbef255c33
+      internalID: -4291597799656963028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_32
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8913d06ef560c854995354f9111b0058
+      internalID: 2902460492323178305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_33
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f0803fc96e6a459d07a8b09c17bb5
+      internalID: -8835871331479563442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_34
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c3b9de612575649add953b3dc647f0
+      internalID: 3040040023683455063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_35
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3f4f9cc617dd640a664488764eb588
+      internalID: 3169468843723593243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_36
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548ad102f4c7284f8460841c1da341d
+      internalID: 5603451526867530282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_37
+      rect:
+        serializedVersion: 2
+        x: 6776
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573057656a90375468fcebf36a401b20
+      internalID: -9214357380498043584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_38
+      rect:
+        serializedVersion: 2
+        x: 7392
+        y: 136
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f48e1371ff089748adfcbbfde1ac108
+      internalID: 4641082641297332265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274cd42120e87ce42a3149f833cc2538
+      internalID: 8302374189505637819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_40
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b451c7751967f4cb772f4258740889
+      internalID: 2687651617900017243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_41
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b9c29a45ed5e548a3d36e402be541c
+      internalID: -3045779632656285659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_42
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c7d5fc148178f4788dcc43c1e31890
+      internalID: 1054990108927766043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_43
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4309acb277564f8514baeea6f4233
+      internalID: 16618740374675376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_44
+      rect:
+        serializedVersion: 2
+        x: 3080
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1165a5e27f569d14b9a9501ba613722e
+      internalID: 1604721832717956647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_45
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5172bfe926710d44a793693d6ace2b1
+      internalID: 3460313499763192937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_46
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293720af8f3708446add7c4de564a4f5
+      internalID: -5701986914418317478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_47
+      rect:
+        serializedVersion: 2
+        x: 4928
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f53a0dfd8b77a47a52da2855967f21
+      internalID: -1477531902462684636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_48
+      rect:
+        serializedVersion: 2
+        x: 5544
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed10fbad515038d4a91faa1af59bd5ad
+      internalID: -642249432557108555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FactoryMachine_Animation_49
+      rect:
+        serializedVersion: 2
+        x: 6160
+        y: 0
+        width: 616
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3326551a6f913a94ea8c98b72c876503
+      internalID: 3249794289660518524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
